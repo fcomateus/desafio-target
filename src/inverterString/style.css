@@ -1,0 +1,17 @@
+#page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 10px;
+}
+
+#resultado {
+    display: block;
+}
